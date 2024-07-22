@@ -87,6 +87,6 @@ Images of the results of the analysis can be found in the `images` directory.
 
 ### Documentation
 
-Refer to the `documents` directory for project presentations, proposals, reports, and the original authors' paper.
+Refer to the `documents` directory for the project proposal, presentation, report, and the original authors' paper.
 
 ---
