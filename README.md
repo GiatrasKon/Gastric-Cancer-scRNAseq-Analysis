@@ -1,5 +1,5 @@
 
-# Gastric CanceR Single-Cell RNA-seq Analysis
+# Gastric Cancer Single-Cell RNA-seq Analysis
 
 This repository contains the code and data for the recreation and enrichment of the gastric (GC) cancer single-cell RNA-seq (scRNA-seq) data analysis pipeline described in the ["Comprehensive analysis of metastatic gastric cancer tumour cells using single‑cell RNA‑seq" by Wang B. et. al](https://www.nature.com/articles/s41598-020-80881-2), using the raw counts matrix that is available in [GEO (GSE158631)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158631). Our robust and comprehensive pipeline surpasses previous approaches by incorporating multiple dimensionality reduction techniques, various clustering methods, marker gene identification and GO functional annotation.
 
