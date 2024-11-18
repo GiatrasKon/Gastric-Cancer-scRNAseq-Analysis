@@ -8,7 +8,7 @@ This analysis was performed as part of the final project for the "Machine Learni
 ### Cloning the Repository
 
 ```sh
-git clone https://github.com/GiatrasKon/gastric-cancer-scRNAseq-data-analysis.git
+git clone https://github.com/GiatrasKon/Gastric-Cancer-scRNAseq-Analysis.git
 ```
 
 ### Package Dependencies
