@@ -5,13 +5,17 @@ This repository contains the code and data for the recreation and enrichment of 
 
 This analysis was performed as part of the final project for the "Machine Learning in Computational Biology" graduate course of the MSc Data Science & Information Technologies Master's programme (Bioinformatics - Biomedical Data Science Specialization) of the Department of Informatics and Telecommunications department of the National and Kapodistrian University of Athens (NKUA), under the supervision of professor Elias Manolakos, in the academic year 2023-2024.
 
-### Cloning the Repository
+## Cloning the Repository
 
 ```sh
 git clone https://github.com/GiatrasKon/Gastric-Cancer-scRNAseq-Analysis.git
 ```
 
-### Package Dependencies
+## Contributors
+- [Konstantinos Giatras](https://github.com/GiatrasKon)
+- [Olympia Tsiomou](https://github.com/otsiomou)
+
+## Package Dependencies
 
 Ensure you have the following packages installed:
 
@@ -33,11 +37,11 @@ Install dependencies using:
 pip install pandas ipython matplotlib seaborn numpy anndata scanpy scipy scikit-learn umap-learn gprofiler-official
 ```
 
-### Class Description
+## Class Description
 
 The `GCSingleCellAnalysis` class (located in `src/codebase.py`) provides a comprehensive workflow for preprocessing, dimensionality reduction, clustering, and functional annotation of single-cell RNA-seq data.
 
-### Running the Analysis
+## Running the Analysis
 
 1. **Preprocessing and Normalization:**
     ```python
@@ -78,14 +82,14 @@ The `GCSingleCellAnalysis` class (located in `src/codebase.py`) provides a compr
     analysis.print_go_annotations(go_annotations)
     ```
 
-### Notebook
+## Notebook
 
 For a detailed step-by-step analysis, refer to the Jupyter notebook:
 - `notebooks/GC_scRNAseq_data_analysis.ipynb`
 
 Images of the results of the analysis can be found in the `images` directory.
 
-### Documentation
+## Documentation
 
 Refer to the `documents` directory for the project proposal, presentation, report, and the original authors' paper.
 
