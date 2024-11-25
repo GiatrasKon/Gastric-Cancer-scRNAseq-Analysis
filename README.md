@@ -5,15 +5,15 @@ This repository contains the code and data for the recreation and enrichment of 
 
 This analysis was performed as part of the final project for the "Machine Learning in Computational Biology" graduate course of the MSc Data Science & Information Technologies Master's programme (Bioinformatics - Biomedical Data Science Specialization) of the Department of Informatics and Telecommunications department of the National and Kapodistrian University of Athens (NKUA), under the supervision of professor Elias Manolakos, in the academic year 2023-2024.
 
+## Contributors
+- [Konstantinos Giatras](https://github.com/GiatrasKon)
+- [Olympia Tsiomou](https://github.com/otsiomou)
+
 ## Cloning the Repository
 
 ```sh
 git clone https://github.com/GiatrasKon/Gastric-Cancer-scRNAseq-Analysis.git
 ```
-
-## Contributors
-- [Konstantinos Giatras](https://github.com/GiatrasKon)
-- [Olympia Tsiomou](https://github.com/otsiomou)
 
 ## Package Dependencies
 
